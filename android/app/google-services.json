@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675595875426",
+    "project_id": "study-mesh",
+    "storage_bucket": "study-mesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675595875426:android:a60a322c07923cce630d3b",
+        "android_client_info": {
+          "package_name": "com.example.study_mesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cpijR82aTtGgs2DqjyR2e1pbM0yoqgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
