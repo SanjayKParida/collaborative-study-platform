@@ -5,7 +5,7 @@
 
 A Flutter-based mobile application designed to enhance collaborative learning experiences. This platform integrates task management, quizzes, and group study features to create an engaging and interactive study environment.
 
-## Features
+## ⚡️ Features
 
 - **User Authentication**: Secure login and registration system.
 - **Task Management**: Create, update, and track study tasks with due dates.
@@ -39,14 +39,14 @@ A Flutter-based mobile application designed to enhance collaborative learning ex
   </tr>
 </table>
 
-## Technologies Used
+## 👩‍💻 Technologies Used
 
 - Flutter 2.x
 - Dart 2.x
 - Firebase (Authentication, Firestore)
 - Provider (State Management)
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -107,14 +107,14 @@ lib/
 └── main.dart
 ```
 
-## Key Components
+## 🧠 Key Components
 
 - **Authentication**: Handles user sign-up, login, and session management.
 - **Tasks**: Allows users to create, edit, and manage their study tasks.
 - **Quizzes**: Enables users to create quizzes and participate in quizzes created by others.
 - **Groups**: (If implemented) Facilitates the creation and management of study groups.
 
-## Future Enhancements
+## 🧣 Future Enhancements
 
 - Implement group study features
 - Add a chat system for real-time communication
@@ -126,14 +126,8 @@ lib/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- [Flutter](https://flutter.dev/)
-- [Firebase](https://firebase.google.com/)
-- [Iconly Icons](https://pub.dev/packages/iconly)
-
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Sanjay Kumar Parida - [kumarparidasanjay23@gmail.com](mailto:kumarparidasanjay23@gmail.com)
 
-Project Link: [https://github.com/your-username/collaborative-study-platform](https://github.com/your-username/collaborative-study-platform)
+Project Link: [https://github.com/SanjayKParida/collaborative-study-platform](https://github.com/SanjayKParida/collaborative-study-platform)
