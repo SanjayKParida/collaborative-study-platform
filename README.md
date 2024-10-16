@@ -34,6 +34,9 @@ A Flutter-based mobile application designed to enhance collaborative learning ex
     <td><img src="screenshots/11.png" width="180"/></td>
     <td><img src="screenshots/12.png" width="180"/></td>
   </tr>
+  <tr>
+    <td><img src="screenshots/13.png" width="180"/></td>
+  </tr>
 </table>
 
 ## Technologies Used
